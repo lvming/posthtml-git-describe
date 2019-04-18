@@ -16,6 +16,9 @@
   },
   "homepage": "https://github.com/lvming/posthtml-git-describe#readme",
   "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "test": "mocha",
     "lint": "eslint lib test",
