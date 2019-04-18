@@ -1,6 +1,6 @@
 {
   "name": "posthtml-git-describe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "posthtml git describe plugin",
   "keywords": [
     "posthtml-plugin"
